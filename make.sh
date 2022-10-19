@@ -1,0 +1,1 @@
+cc -s -O3 -o Ejercicio9 Ejercicio9.c -std=c99 -Wall -Wextra -Wpedantic
